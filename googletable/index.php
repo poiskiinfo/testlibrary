@@ -9,12 +9,13 @@ if ( !defined( 'CPATH_BASE' ) ) {
  require_once CPATH_BASE . '/includes/framework.php';
 
 
+
+$cronss=htmlspecialchars($_GET['cron'] , ENT_QUOTES);
 $config1= new CConfig;
 
+//начало if($cronss==$config1->code_cronjob){
 
-
-
-
+if($cronss==$config1->code_cronjob){
 
 // создание таблицы пустой с данными из моего фреймфорка
 $bd=new Cms\MysqliBd;
@@ -204,5 +205,16 @@ $options = array( 'valueInputOption' => 'RAW' );
 
 $service->spreadsheets_values->update( $spreadsheetId, 'Лист1!A13', $body, $options );
 */
+//конец if($cronss==$config1->code_cronjob){
+}
+else{
+    die('неверный код крона');
+}
+
+
+
+
+
+
 
 ?>
