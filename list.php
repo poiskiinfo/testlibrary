@@ -671,10 +671,6 @@ $(document).ready(function() {
 </script>
 
 
-
-  <?php } ?>
-
-
 <?php
 
 $url='./index.php?sort='.$sort;
@@ -711,6 +707,13 @@ elseif ($num_pages < $per_page) $pages =" <span class='postranichnayanavigacia'>
 }
 
 ?>
+
+
+
+  <?php } ?>
+
+
+
 
 
 </div>
