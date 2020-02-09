@@ -1,4 +1,8 @@
 1 Поправить под свой хостинг configuration.php
+
+$id_ggoletable берется из урл страницы таблицы гугла пример https://docs.google.com/spreadsheets/d/1hF4fuj07Sl1fiuqu5FHIgAfZDxLIG020YEVSVuFKFXk/edit#gid=0
+где берем и вставляем ток 1hF4fuj07Sl1fiuqu5FHIgAfZDxLIG020YEVSVuFKFXk
+
 2 добавить следующие к ващему проекту в гугл
 
 Google Sheets API
