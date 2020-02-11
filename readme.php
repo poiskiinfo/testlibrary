@@ -1,3 +1,6 @@
+по поводу вакансии на этой странице https://magnitogorsk.hh.ru/vacancy/35255804?utm_medium=meta&utm_campaign=RU_organic_applicant_feed&utm_source=rabota.yandex&_openstat=rabota.yandex.ru;;9082440606738856209;organic
+
+получаем такое
 Тестовое задание от компании Факт studiofact.ru и https://fact.digital/ это один и тот же сайт работадателя
 Добрый день!
 Вы откликнулись на нашу вакансию. Для оценки Ваших компетенций отправляем тестовое задание:
@@ -68,7 +71,7 @@ https://codd-wd.ru/instrukciya-po-polucheniyu-klyucha-servisnogo-akkaunta-google
 
 
 
-было отправлено письмо менеджеру который переслал ее проверяющему программисту с таки мсодержимым
+было отправлено письмо менеджеру который переслал ее проверяющему программисту с таким содержимым
 
 ссылка на проект в гитхабе https://github.com/poiskiinfo/testlibrary выполенной работы
 ссылка на видео https://github.com/poiskiinfo/testlibrary что данный проект работает и публикует в гугл таблицы в конец данные за прошлый день пришлось запись msqli поправить на прошлый день чтобу увидеть 1 1 а то показало бы 0 0
